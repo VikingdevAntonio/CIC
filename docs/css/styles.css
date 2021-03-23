@@ -68,7 +68,7 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background: url(/img/fochida.jpg);
+  background: url(../img/fochida.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -108,14 +108,14 @@ body {
 
 #jumbo1 {
   height: 500px;
-  background: url(/img/fochida.jpg);
+  background: url(../img/fochida.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
 }
 #jumboAbout{
-  background:url(/img/fachada.jpg);
+  background:url(../img/fachada.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -123,7 +123,7 @@ body {
 }
 
 #jumbobreak {
-  background: url(/img/pancakes.jpg);
+  background: url(../img/pancakes.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -131,7 +131,7 @@ body {
 }
 
 #jumbolunch {
-  background: url(/img/rib.jpg);
+  background: url(../img/rib.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -139,7 +139,7 @@ body {
 }
 
 #jumbodinner {
-  background: url(/img/bananawafle.jpg);
+  background: url(../img/bananawafle.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
